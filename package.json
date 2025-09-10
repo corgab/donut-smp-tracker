@@ -10,8 +10,8 @@
     "setup": "cp .env.example .env && npm install"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "corgab",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^14.22.1",
     "dotenv": "^17.2.2",
