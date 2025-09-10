@@ -1,5 +1,5 @@
 {
-  "name": "donut_tracker",
+  "name": "donut-smp-tracker",
   "version": "1.0.0",
   "description": "track your accounts on donut",
   "main": "donutTrack.js",
